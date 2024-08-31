@@ -3,7 +3,7 @@
 
 # Specify owners for specific files
 #README.md @octocat
-*.tf @nkempuclovis
+#*.tf @nkempuclovis
 
 # Specify owners for files in a directory
 #/docs/ @doc-team
